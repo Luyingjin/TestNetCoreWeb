@@ -1,0 +1,17 @@
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Release\netcoreapp2.2\win-x64\MyNetCoreApi.exe
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Release\netcoreapp2.2\win-x64\MyNetCoreApi.deps.json
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Release\netcoreapp2.2\win-x64\MyNetCoreApi.runtimeconfig.json
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Release\netcoreapp2.2\win-x64\MyNetCoreApi.runtimeconfig.dev.json
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Release\netcoreapp2.2\win-x64\MyNetCoreApi.dll
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Release\netcoreapp2.2\win-x64\MyNetCoreApi.pdb
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Release\netcoreapp2.2\win-x64\MyNetCoreApi.csprojAssemblyReference.cache
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Release\netcoreapp2.2\win-x64\MyNetCoreApi.csproj.CoreCompileInputs.cache
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Release\netcoreapp2.2\win-x64\MyNetCoreApi.RazorAssemblyInfo.cache
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Release\netcoreapp2.2\win-x64\MyNetCoreApi.RazorAssemblyInfo.cs
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Release\netcoreapp2.2\win-x64\MyNetCoreApi.AssemblyInfoInputs.cache
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Release\netcoreapp2.2\win-x64\MyNetCoreApi.AssemblyInfo.cs
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Release\netcoreapp2.2\win-x64\MyNetCoreApi.RazorTargetAssemblyInfo.cache
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Release\netcoreapp2.2\win-x64\MyNetCoreApi.dll
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Release\netcoreapp2.2\win-x64\MyNetCoreApi.pdb
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll

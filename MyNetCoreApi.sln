@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNetCoreApi", "MyNetCoreApi\MyNetCoreApi.csproj", "{DE32FCD1-6BEE-47BA-B864-7372B264BB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{FC5825DB-6264-4FEE-8314-69A3BB223BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE32FCD1-6BEE-47BA-B864-7372B264BB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE32FCD1-6BEE-47BA-B864-7372B264BB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE32FCD1-6BEE-47BA-B864-7372B264BB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE32FCD1-6BEE-47BA-B864-7372B264BB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5825DB-6264-4FEE-8314-69A3BB223BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5825DB-6264-4FEE-8314-69A3BB223BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5825DB-6264-4FEE-8314-69A3BB223BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5825DB-6264-4FEE-8314-69A3BB223BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB51D22-34D5-45E6-936E-81A801A9F717}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Debug\netcoreapp2.2\MyNetCoreApi.deps.json
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Debug\netcoreapp2.2\MyNetCoreApi.runtimeconfig.json
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Debug\netcoreapp2.2\MyNetCoreApi.runtimeconfig.dev.json
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Debug\netcoreapp2.2\MyNetCoreApi.dll
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Debug\netcoreapp2.2\MyNetCoreApi.csproj.CoreCompileInputs.cache
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Debug\netcoreapp2.2\MyNetCoreApi.RazorAssemblyInfo.cache
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Debug\netcoreapp2.2\MyNetCoreApi.RazorAssemblyInfo.cs
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Debug\netcoreapp2.2\MyNetCoreApi.AssemblyInfoInputs.cache
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Debug\netcoreapp2.2\MyNetCoreApi.AssemblyInfo.cs
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Debug\netcoreapp2.2\MyNetCoreApi.RazorTargetAssemblyInfo.cache
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\bin\Debug\netcoreapp2.2\MyNetCoreApi.pdb
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Debug\netcoreapp2.2\MyNetCoreApi.dll
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Debug\netcoreapp2.2\MyNetCoreApi.pdb
+E:\Test\MyNetCoreApi\MyNetCoreApi\MyNetCoreApi\obj\Debug\netcoreapp2.2\MyNetCoreApi.csprojAssemblyReference.cache
